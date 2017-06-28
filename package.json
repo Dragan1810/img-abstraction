@@ -1,0 +1,26 @@
+{
+  "name": "img-abstraction",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Back-end Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragan1810/img-abstraction.git"
+  },
+  "keywords": [],
+  "author": "Dragan Novakovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragan1810/img-abstraction/issues"
+  },
+  "homepage": "https://github.com/Dragan1810/img-abstraction#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0"
+  }
+}
