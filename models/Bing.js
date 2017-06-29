@@ -7,6 +7,5 @@ const SearchSchema = new Schema({
     Search:String
 });
 
-const SearchModel = mongoose.model('search',SearchSchema);
 
-module.exports = SearchModel;
+module.exports = mongoose.model('search',SearchSchema);
